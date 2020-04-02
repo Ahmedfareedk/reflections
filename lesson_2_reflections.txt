@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+-- a git repo is created to add the changes history of its files.
