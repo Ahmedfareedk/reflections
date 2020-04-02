@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 -- a git repo is created to add the changes history of its files.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+-- it's just a temporarely intermediate place between the repo and my working directory. 
