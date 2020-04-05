@@ -3,3 +3,9 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 -- it's just a temporarely intermediate place between the repo and my working directory. 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+-- it's just considered as an addition place try some new features before having it in the main app.
+
+How do the diagrams help you visualize the branch structure?
+it makes concepts more obvious to me.
